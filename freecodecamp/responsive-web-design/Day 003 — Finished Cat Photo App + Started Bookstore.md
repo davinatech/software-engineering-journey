@@ -39,8 +39,8 @@
 
 ## 📸 Screenshots
 
-### Cat Photo App 🐱
+### Cat Photo App 
 ![Cat Photo App](../screenshots/CatPhotoAPP.png)
 
-### Bookstore 📚
+### Bookstore 
 ![Bookstore](../screenshots/Bookstore.png)
