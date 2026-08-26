@@ -37,6 +37,10 @@
 **Next:** Finish the Bookstore and keep getting better with HTML.
 
 
-![Cat Photo App](freecodecamp/screenshots/CatPhotoAPP.png)
+## 📸 Screenshots
 
-![Bookstore](freecodecamp/screenshots/Bookstore.png)
+### Cat Photo App
+![Cat Photo App](screenshots/CatPhotoAPP.png)
+
+### Bookstore
+![Bookstore](screenshots/Bookstore.png)
