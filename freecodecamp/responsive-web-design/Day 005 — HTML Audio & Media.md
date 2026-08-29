@@ -22,4 +22,4 @@ Example:
 
 <audio src="audio-file.mp3" controls></audio>
 
-![Billie Eilish Music Player](screenshots/Billie-Eilish-mp3.png)
+![Billie Eilish Music Player](../screenshots/Billie-Eilish-mp3.png)
